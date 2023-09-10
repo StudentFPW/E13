@@ -7,8 +7,8 @@
     "lint": "eslint ./src",
     "serve": "webpack serve",
     "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonids Jofe",
   "license": "ISC",
