@@ -8,19 +8,19 @@
 ## Полезные команды для проверки домашнего задания ↓
 
 ### Пересобрать проект, то есть снова запустить:
-        ```"npx webpack" или "npm run build"```
+        ```npx webpack или npm run build```
 
 ### Чтобы каждый раз не пересобирать проект вручную, можно воспользоваться командой:
-        ```"npx webpack --watch"```
+        ```npx webpack --watch```
 
 ### Запустить server с помощью команды:
-        ```"npx webpack-dev-server" или "npx webpack serve"```
+        ```npx webpack-dev-server или npx webpack serve```
 
 ### В разных режимах dev и prod:
-        ```"npm run servedev" или "npm run servepro"```
+        ```npm run servedev или npm run servepro```
 
 ### Запустить JSON-сервер командой:
-        ```"json-server --watch db.json"```
+        ```json-server --watch db.json```
 
 ### Протестируйте запуск перехватчика перед фиксацией:
-        ```"git add -A" и "git commit -m "Keep calm and commit"```
+        ```git add -A и git commit -m Keep calm and commit```
